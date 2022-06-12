@@ -14,26 +14,9 @@
       "name": "name",
       "code": "code",
       "id": 3
-    },
-    {
-      "name": "test_second",
-      "code": "code_897",
-      "id": 6
-    },
-    {
-      "name": "mukesh feature",
-      "code": "mukesh_code2345",
-      "id": 5
     }
   ],
   "user": [
-    {
-      "name": "Test",
-      "email": "test@gmail.com",
-      "address": "iijvkkjdakafkwnkaacn",
-      "contact": "65554556665",
-      "id": 1
-    },
     {
       "id": 2,
       "name": "Parminder",
@@ -134,20 +117,6 @@
       "campus": "Campus name",
       "email": "Abc@test.com",
       "id": 4
-    },
-    {
-      "name": "",
-      "father_name": "",
-      "mother_name": "",
-      "dob": "",
-      "blood_group": "",
-      "address": "",
-      "phone": "",
-      "gender": "",
-      "org": "org_number",
-      "campus": "Campus name",
-      "email": "Abc@test.com",
-      "id": 5
     }
   ],
   "org": [
@@ -174,66 +143,6 @@
       "contact": "799898989q",
       "address": "lkdlklk",
       "id": 1
-    },
-    {
-      "organization": "Bar",
-      "campus": "",
-      "email": "skdfnkekef",
-      "contact": "kmcadmfqe",
-      "address": "lcmlamqefqea,zxc ,azxadskwqkas,ca c",
-      "city": "",
-      "country": "",
-      "dob": "",
-      "image": "",
-      "about": "",
-      "feature": "",
-      "password": "",
-      "id": 2
-    },
-    {
-      "organization": "Bar",
-      "campus": "",
-      "email": "klassmcsakncsakc",
-      "contact": "as caks c askd",
-      "address": "skcn skcnc sacn xcmsak,cnKcnas",
-      "city": "",
-      "country": "",
-      "dob": "",
-      "image": "Lmclascmlksa",
-      "about": "",
-      "feature": "",
-      "password": "",
-      "id": 3
-    },
-    {
-      "organization": "Bar",
-      "campus": "Bar",
-      "email": "Test@gmail.com",
-      "contact": "8585748398383",
-      "address": "mdfg ekjkfj wefwoef wej",
-      "city": "Buzz",
-      "country": "Buzz",
-      "dob": "12/12/2002",
-      "image": "lsjf",
-      "about": "lmv",
-      "feature": "Buzz",
-      "password": "8y8886867",
-      "id": 5
-    },
-    {
-      "organization": "Foo",
-      "campus": "",
-      "email": "Campus@gmail.com",
-      "contact": "88888888888",
-      "address": "sdmsssdds",
-      "city": "",
-      "country": "",
-      "dob": "daeef",
-      "image": "",
-      "about": "",
-      "feature": "",
-      "password": "",
-      "id": 6
     }
   ],
   "geofence": [
@@ -256,27 +165,6 @@
       "buddy": "",
       "radius": "",
       "id": 3
-    },
-    {
-      "name": "adim",
-      "member": "",
-      "buddy": "",
-      "radius": "",
-      "id": 4
-    },
-    {
-      "name": "",
-      "member": "",
-      "buddy": "",
-      "radius": "",
-      "id": 5
-    },
-    {
-      "name": "",
-      "member": "",
-      "buddy": "",
-      "radius": "",
-      "id": 6
     }
   ],
   "harvard": [
