@@ -1,21 +1,5 @@
 {
-  "features": [
-    {
-      "name": "name",
-      "code": "code",
-      "id": 1
-    },
-    {
-      "name": "test_second",
-      "code": "code_897",
-      "id": 4
-    },
-    {
-      "name": "name",
-      "code": "code",
-      "id": 3
-    }
-  ],
+  "features": [],
   "user": [
     {
       "id": 2,
@@ -25,118 +9,10 @@
       "type": "super-admin"
     }
   ],
-  "buddy": [
-    {
-      "id": 1,
-      "name": "Test",
-      "email": "test@gmail.com",
-      "password": "Demo@1234",
-      "type": "admin"
-    },
-    {
-      "id": 2,
-      "name": "Parminder",
-      "email": "parminder1@gmail.com",
-      "password": "Demo@1234",
-      "type": "super-admin"
-    }
-  ],
-  "campus": [
-    {
-      "name": "Test",
-      "email": "test@gmail.com",
-      "contact": "09765433456789",
-      "Address": "j chvjdvhjd hsjvh",
-      "id": 1
-    },
-    {
-      "name": "admin",
-      "email": "admin@gmail.com",
-      "contact": "8686868688",
-      "Address": "999cjvdkvnckjkkzc",
-      "organization": "",
-      "id": 2
-    },
-    {
-      "name": "cccdsf",
-      "email": "test@gmail.com",
-      "contact": "888888888",
-      "Address": "sadasd",
-      "organization": "",
-      "id": 3
-    }
-  ],
-  "students": [
-    {
-      "name": "Tests.c';fllefwevadf",
-      "address": "admin",
-      "phone": "9887698876",
-      "org": "org_number",
-      "campus": "Campus name",
-      "email": "Abc@test.com",
-      "id": 1
-    },
-    {
-      "name": "Test1",
-      "father_name": "ghhj",
-      "mother_name": "ghhj",
-      "dob": "hjkjkk",
-      "blood_group": "ghjj",
-      "address": "hguikkki",
-      "phone": "+919876543210",
-      "gender": "ghjkk",
-      "org": "org_number",
-      "campus": "Campus name",
-      "email": "Abc@test.com",
-      "id": 2
-    },
-    {
-      "name": "sdmwd",
-      "father_name": "klcxnkd",
-      "mother_name": "kmsdkc",
-      "dob": "kxncka",
-      "blood_group": "kasnk",
-      "address": "kamck",
-      "phone": "kmassck",
-      "gender": "kasnck",
-      "org": "org_number",
-      "campus": "Campus name",
-      "email": "Abc@test.com",
-      "id": 3
-    },
-    {
-      "name": "Admin2",
-      "father_name": "ksfm",
-      "mother_name": "km",
-      "dob": "kdm",
-      "blood_group": "km",
-      "address": "lm",
-      "phone": "kf",
-      "gender": "ksmc",
-      "org": "org_number",
-      "campus": "Campus name",
-      "email": "Abc@test.com",
-      "id": 4
-    }
-  ],
-  "org": [
-    {
-      "name": "Loremtest sharma",
-      "email": "Abc@test.com",
-      "address": "admin",
-      "phone": "9887698876",
-      "id": 1
-    },
-    {
-      "name": "test",
-      "email": "test@gmail.com",
-      "address": "test\n",
-      "phone": "098765432345",
-      "logo": "logo_url",
-      "Features": "Features",
-      "id": 2
-    }
-  ],
+  "buddy": [],
+  "campus": [],
+  "students": [],
+  "org": [],
   "admin-manage": [
     {
       "email": "test@gamil.com",
@@ -145,56 +21,8 @@
       "id": 1
     }
   ],
-  "geofence": [
-    {
-      "name": "Admin 1",
-      "location": "adimn",
-      "radius": "kmsdfkmv",
-      "id": 1
-    },
-    {
-      "name": "Test",
-      "member": "",
-      "buddy": "",
-      "radius": "",
-      "id": 2
-    },
-    {
-      "name": "Admin3",
-      "member": "",
-      "buddy": "",
-      "radius": "",
-      "id": 3
-    }
-  ],
-  "harvard": [
-    {
-      "name": "campus",
-      "email": "test@gmail.com",
-      "contact": "874763653553",
-      "Address": "lvmlsmvlmvvll",
-      "id": 1
-    },
-    {
-      "name": "Campus 1",
-      "email": "admin@gmail.com",
-      "id": 2
-    },
-    {
-      "name": "buddy 1",
-      "campus": "",
-      "member": "",
-      "desc": "",
-      "id": 3
-    },
-    {
-      "name": "gfgdfhgh",
-      "campus": "",
-      "member": "",
-      "desc": "",
-      "id": 4
-    }
-  ],
+  "geofence": [],
+  "harvard": [],
   "profile": {
     "name": "typicode"
   }
